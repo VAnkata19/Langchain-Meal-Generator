@@ -1,6 +1,6 @@
 # NourishBot
 
-An intelligent meal planning application that scrapes grocery store deals, analyzes offers, generates meal recipes, and emails you the results.
+**Never waste money on groceries again.** NourishBot discovers the best deals at your local supermarket, generates AI-powered recipes based on what's on sale, creates your shopping list, and sends it all straight to your inbox—all with zero effort from you.
 
 ## Features
 
