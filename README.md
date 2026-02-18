@@ -1,4 +1,4 @@
-# Langchain Meal Generator
+# NourishBot
 
 An intelligent meal planning application that scrapes grocery store deals, analyzes offers, generates meal recipes, and emails you the results.
 
