@@ -13,11 +13,10 @@ An intelligent meal planning application that scrapes grocery store deals, analy
 ## Screenshots
 
 ### Meal Recipes Email
-<!-- Add screenshot of the recipes email here -->
+<img width="1492" height="715" alt="image" src="https://github.com/user-attachments/assets/4ef57434-dff8-4e37-ab49-2b5fc352dd4b" />
 
 ### Shopping List Email
-<!-- Add screenshot of the shopping list email here -->
-
+<img width="1492" height="715" alt="image" src="https://github.com/user-attachments/assets/75c67532-0ee1-4b52-8916-b3ab90763673" />
 
 ## How It Works
 
